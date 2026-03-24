@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Eloise 👋
 
-<!--
-**eloisefang/eloisefang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at University of Alberta (Artificial Intelligence)  
+💡 Interested in AI applications, full-stack development, and LLM-based systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🧠 AI Nutrition Recommendation System
+- Built a web application that generates personalized meal recommendations  
+- Integrated OpenAI API for dynamic AI-generated responses  
+- Developed backend using Flask and handled user input processing  
+
+### 📱 Android Event Registration App
+- Designed and developed an Android application for event registration  
+- Implemented real-time user input handling and data management  
+- Built using Java/Kotlin in Android Studio  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Python · Java · c · c#  
+
+**Frameworks & Tools:**  
+Flask · REST APIs · OpenAI API · Android Studio  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: linkedin.com/in/chen-an-fang-972a7a227/  
+- Email: eloise940709@gmail.com 
