@@ -10,7 +10,7 @@
 - Integrated OpenAI API for dynamic AI-generated responses  
 - Developed backend using Flask and handled user input processing  
 
-### Android Event Registration App
+### [Android Event Registration App](https://github.com/CMPUT301F25lottos/lottosProject)
 - Designed and developed an Android application for event registration  
 - Implemented real-time user input handling and data management  
 - Built using Java/Kotlin in Android Studio  
