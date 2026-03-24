@@ -18,7 +18,7 @@
 ## Tech Stack
 
 **Languages:**  
-Python · Java · c · c#  
+Python · Java · c · c# · SQL
 
 **Frameworks & Tools:**  
 Flask · REST APIs · OpenAI API · Android Studio  
