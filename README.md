@@ -3,9 +3,7 @@
 🎓 Computer Science student at University of Alberta (Artificial Intelligence)  
 💡 Interested in AI applications, full-stack development, and LLM-based systems  
 
----
-
-## 🚀 Projects
+## Projects
 
 ### 🧠 AI Nutrition Recommendation System
 - Built a web application that generates personalized meal recommendations  
@@ -17,9 +15,7 @@
 - Implemented real-time user input handling and data management  
 - Built using Java/Kotlin in Android Studio  
 
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:**  
 Python · Java · c · c#  
@@ -27,9 +23,7 @@ Python · Java · c · c#
 **Frameworks & Tools:**  
 Flask · REST APIs · OpenAI API · Android Studio  
 
----
-
-## 📫 Contact
+## Contact
 
 - LinkedIn: linkedin.com/in/chen-an-fang-972a7a227/  
 - Email: eloise940709@gmail.com 
