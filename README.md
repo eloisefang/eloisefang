@@ -5,7 +5,7 @@
 
 ## Projects
 
-### AI Nutrition Recommendation System
+### [AI Nutrition Recommendation System] (https://devpost.com/software/nutrify-xic6f5)
 - Built a web application that generates personalized meal recommendations  
 - Integrated OpenAI API for dynamic AI-generated responses  
 - Developed backend using Flask and handled user input processing  
