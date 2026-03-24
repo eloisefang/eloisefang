@@ -25,5 +25,5 @@ Flask · REST APIs · OpenAI API · Android Studio
 
 ## Contact
 
-- [LinkedIn](linkedin.com/in/chen-an-fang-972a7a227/)
+- LinkedIn: linkedin.com/in/chen-an-fang-972a7a227/
 - Email: eloise940709@gmail.com 
