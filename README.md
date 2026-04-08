@@ -13,7 +13,12 @@
 ### [Android Event Registration App](https://github.com/CMPUT301F25lottos/lottosProject)
 - Designed and developed an Android application for event registration  
 - Implemented real-time user input handling and data management  
-- Built using Java/Kotlin in Android Studio  
+- Built using Java/Kotlin in Android Studio
+
+### [Smiski Catalog Website](https://smiski-catalog.vercel.app/)
+- Built a responsive fan-based catalog web application using Next.js and TypeScript, allowing users to browse, filter, and track SMISKI collections by series, type, and rarity.
+- Integrated Supabase for user authentication, database management, and real-time features, enabling community interactions such as trading, showcasing, and user-generated posts.
+- Designed and implemented a clean, modern UI using Tailwind CSS, including features like dynamic filtering, detailed item views, and collection tracking to enhance user experience and engagement.
 
 ## Tech Stack
 
