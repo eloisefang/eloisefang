@@ -23,10 +23,10 @@
 ## Tech Stack
 
 **Languages:**  
-Python · Java · c · c# · SQL
+Python · Java · JavaScript · c · c# · SQL
 
 **Frameworks & Tools:**  
-Flask · REST APIs · OpenAI API · Android Studio  
+Flask · REST APIs · OpenAI API · Android Studio · Next.js · Tailwind CSS · Supabase
 
 ## Contact
 
