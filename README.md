@@ -1,7 +1,6 @@
-# Hi, I'm Eloise 👋
+# Hi, I’m Eloise 👋
 
-- Computer Science student at University of Alberta (Artificial Intelligence)  
-- Interested in AI applications, full-stack development, and LLM-based systems  
+I’m a computer science student at the University of Alberta, focusing on AI and minoring in mathematics. I’m interested in building full-stack apps that put large language models to work. 
 
 ## Projects
 
