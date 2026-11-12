@@ -20,6 +20,12 @@
 - Integrated Supabase for user authentication, database management, and real-time features, enabling community interactions such as trading, showcasing, and user-generated posts.
 - Designed and implemented a clean, modern UI using Tailwind CSS, including features like dynamic filtering, detailed item views, and collection tracking to enhance user experience and engagement.
 
+### [Monte Carlo Insurance Risk Simulation](https://github.com/eloisefang/monte-carlo-insurance-risk)
+
+- Built a Python simulation with NumPy to estimate annual insurance losses across 50,000 simulated years, using Poisson claim counts and lognormal claim payments.
+- Estimated tail risk using Value at Risk (VaR) and Tail Value at Risk (TVaR). Stress-tested claim frequency and severity and found that combined stress raised the chance of exceeding CAD 350,000 from 6.96% to 65.45%.
+- Validated the simulation against an analytical benchmark and hand-calculated test cases with pytest, then visualized the results in Jupyter notebooks using Matplotlib.
+
 ## Tech Stack
 
 **Languages:**  
